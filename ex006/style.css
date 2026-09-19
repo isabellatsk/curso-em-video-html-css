@@ -1,0 +1,23 @@
+h1 {
+    color: aliceblue;
+    background-color: rgb(255, 0, 0);
+}
+
+h2 {
+    color: aliceblue;
+    background-color: blue;
+}
+
+h3 {
+    color: aliceblue;
+    background-color: green;
+}
+
+h4 {
+    color: aliceblue;
+    background-color: rgb(255, 0, 221);
+}
+
+body {
+    background-color: rgb(61, 59, 59);
+}
